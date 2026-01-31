@@ -1,0 +1,8 @@
+{
+  "formation": {
+    "worker": {
+      "amount": 1,
+      "size": "S"
+    }
+  }
+}
